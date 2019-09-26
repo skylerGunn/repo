@@ -1,0 +1,7 @@
+/home/sig972/OS/a6/build/CMakeFiles/edit_cache.dir
+/home/sig972/OS/a6/build/CMakeFiles/rebuild_cache.dir
+/home/sig972/OS/a6/build/CMakeFiles/fs_test.dir
+/home/sig972/OS/a6/build/CMakeFiles/S19FS.dir
+/home/sig972/OS/a6/build/CMakeFiles/dyn_array.dir
+/home/sig972/OS/a6/build/CMakeFiles/back_store.dir
+/home/sig972/OS/a6/build/CMakeFiles/bitmap.dir

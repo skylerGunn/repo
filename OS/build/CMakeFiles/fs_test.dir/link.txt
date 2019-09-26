@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -Wall -Wextra -Wshadow -g -D_POSIX_C_SOURCE=200809L  -rdynamic CMakeFiles/fs_test.dir/test/tests.cpp.o  -o fs_test -Wl,-rpath,/home/sig972/OS/a6/build libS19FS.so -lgtest -lpthread libback_store.so libdyn_array.so libbitmap.so 
